@@ -1,0 +1,11 @@
+# Morphe
+cli.jar
+patches.mpp
+patches.json
+
+# Secrets
+*.bks
+
+# Build artifacts
+temp/
+*.apk
