@@ -1,0 +1,15 @@
+# Morphe
+cli.jar
+morphe.mpp
+morphe.json
+piko.mpp
+piko.json
+piko-shim.mpp
+piko-shim.json
+
+# Secrets
+*.bks
+
+# Build artifacts
+temp/
+*.apk
